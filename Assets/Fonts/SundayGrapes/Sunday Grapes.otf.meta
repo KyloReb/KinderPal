@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: fa336527975e13d49ae7d9cadf803ed2
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Sunday Grapes
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 998cfa25b20091242b651105953fe063, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
